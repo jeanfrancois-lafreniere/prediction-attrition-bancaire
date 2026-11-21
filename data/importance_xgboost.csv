@@ -1,0 +1,17 @@
+Feature,Importance
+NumOfProducts,0.22464712
+IsActiveMember,0.19443211
+Age,0.15800922
+Geography_Germany,0.10820747
+Balance,0.052872982
+Gender_Male,0.047236625
+Geography_Spain,0.028159939
+Satisfaction Score,0.025652798
+Point Earned,0.025548559
+CreditScore,0.02454659
+Tenure,0.021915631
+EstimatedSalary,0.020122994
+Card Type_PLATINUM,0.017623669
+Card Type_SILVER,0.017536761
+HasCrCard,0.017039644
+Card Type_GOLD,0.016447885

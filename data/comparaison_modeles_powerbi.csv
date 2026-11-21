@@ -1,0 +1,5 @@
+Modele,ROC_AUC_Moyenne,ROC_AUC_EcartType,Rappel_Moyenne,Rappel_EcartType,F1_Moyenne,F1_EcartType
+XGBoost,0.8633,0.0081,0.4843,0.0116,0.5935,0.0076
+Random Forest,0.8517,0.0092,0.4509,0.0181,0.5712,0.0174
+Arbre de Décision (depth=3),0.7955,0.0094,0.2826,0.038,0.4168,0.0405
+Régression Logistique,0.7644,0.006,0.2149,0.0171,0.3157,0.0203
